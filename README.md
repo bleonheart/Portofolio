@@ -49,11 +49,15 @@
 - [falloutrpg](https://github.com/bleonheart/Schemas/tree/main/falloutrpg) - The Sequel to The Nevada Wastes, Concentrating on RPG Mechanics
 - [MP-Repository](https://github.com/bleonheart/MP-Repository) - Mobsters Paradise, a Prominent MafiaRP With Innovative Features
 - [Flashpoint-2.0](https://github.com/bleonheart/Flashpoint-2.0) - An MITHC Server Exploring the Oppression Factors Under Nazi Rule
-
+## Helix
+- Several Unnamed Projects
+## DarkRP
+- Several Unnamed Projects
 # Independent Gamemodes
 - [RPGScript](https://github.com/bleonheart/RPGScript) - The Initial Iteration of Lilia, Unreleased Due to Viability Concerns as an RPG Gamemode
 - [Original-Fallout](https://github.com/bleonheart/Original-Fallout) - An Independent FalloutRP Gamemode Focused on the Wastelander Experience Rather Than Faction Roleplay
 - [Fallout-Online](https://github.com/bleonheart/Fallout-Online) - A Revamped and Optimized Version of the Original Fallout Gamemode
+- 
 
 # HTML Websites
 - A Website Designed to Display Various Recipes, Aiming to Assist Older Individuals With Easy Access to Recipes
