@@ -21,7 +21,13 @@
 - [VigilanceGaming42RP](https://github.com/bleonheart/VigilanceGaming42RP) - Vigilance Gaming 1942RP, a 1942RP Server with a Focus on Civilian Roleplay 
 - [Modified-Gaming-1943](https://github.com/bleonheart/Modified-Gaming-1943) - An Undisclosed and Unreleased Project
 - [ZMRP](https://github.com/bleonheart/ZMRP) - A Gamemode Combining Tarkov with an Apocalyptic Setting, Pioneering Innovation on Garry's Mod
-
+- [Ghost Roleplay](https://github.com/bleonheart/Kaiser-Networks) - A 1942RP focused on Citizen Roleplay.
+- [Genesis Metro 2033](https://github.com/Fokweekwee/Genesis-MetroRP) - A Metro 2033 Server.
+- [HL2RP](https://github.com/bleonheart/Genesis-MetroRP) - A HL2RP Server focused on City 17.
+- [Project Vindication](https://github.com/bleonheart/ProjectVindicationSWRP) - A StarWarsRP server.
+- [Project Rebirth](https://github.com/bleonheart/Project-Rebirth) - A ZombieRP Server.
+- Unnamed FalloutRP - A FalloutRP Server aiming to replicate Fallout 76.
+- Local Networks StarWarsRP - A SWRP Server
 ## Nutscript
 ### Open Source Projects
 - [FalloutRP-Schema](https://github.com/bleonheart/FalloutRP-Schema) - A Nutscript 1.0 Gamemode with Extensive Custom Content, Though It's Not Advised to Use Due to Being Outdated
